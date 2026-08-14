@@ -24,5 +24,3 @@ Below you can find the journey which I've undergone to get to where I am today.
 - Many also note that the school is also very commuter friendly
 
 **In Person Research and Questions:**
-
-Testing how branching and pull requests work
